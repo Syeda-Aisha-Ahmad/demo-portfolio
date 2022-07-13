@@ -73,6 +73,7 @@ h2 {
     background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    margin-bottom: 150px;
 }
 
 .parent {
@@ -94,4 +95,10 @@ h2 {
 .right-child {
     margin: 10px 60px 10px 40px;
     border-left: 7px solid blue;
+}
+
+/****************Footer Section*******************/
+
+.footer {
+    text-align: center;
 }
